@@ -28,7 +28,8 @@
     "hubot-scripts": "2.4.6",
     "hubot-irc": ">= 0.0.1",
     "hubot-twitter": ">= 0.0.1",
-    "underscore": ">= 0.0.1"
+    "underscore": ">= 0.0.1",
+    "cleverbot-node": ">= 0.0.1"
   },
 
   "engines": {
